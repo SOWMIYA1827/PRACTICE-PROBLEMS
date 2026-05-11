@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0643-maximum-average-subarray-i) |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
