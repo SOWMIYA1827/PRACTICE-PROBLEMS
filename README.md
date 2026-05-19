@@ -91,8 +91,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0155-min-stack/) | Medium |
+| [0232-implement-queue-using-stacks](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0155-min-stack/) | Medium |
+| [0232-implement-queue-using-stacks](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
