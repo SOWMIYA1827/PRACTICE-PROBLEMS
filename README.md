@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1480-running-sum-of-1d-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/1004-max-consecutive-ones-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
