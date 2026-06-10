@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0682-baseball-game/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/1052-grumpy-bookstore-owner) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1672-richest-customer-wealth/) | Easy |
