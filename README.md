@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0231-power-of-two/) | Easy |
 | [0412-fizz-buzz](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0412-fizz-buzz/) | Easy |
+| [0507-perfect-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0728-self-dividing-numbers/) | Easy |
