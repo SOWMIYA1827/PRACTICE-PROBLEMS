@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0009-palindrome-number/) | Easy |
 | [0069-sqrtx](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0231-power-of-two/) | Easy |
+| [0258-add-digits](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0412-fizz-buzz/) | Easy |
 | [0507-perfect-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0509-fibonacci-number) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0412-fizz-buzz/) | Easy |
 | [0682-baseball-game](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0682-baseball-game/) | Easy |
 | [0844-backspace-string-compare](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0844-backspace-string-compare/) | Easy |
@@ -163,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1672-richest-customer-wealth](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1672-richest-customer-wealth/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
