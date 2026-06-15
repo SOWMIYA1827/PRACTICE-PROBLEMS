@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0258-add-digits/) | Easy |
+| [0263-ugly-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0263-ugly-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0412-fizz-buzz/) | Easy |
 | [0507-perfect-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0509-fibonacci-number) |
