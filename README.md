@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0643-maximum-average-subarray-i) |
+| [0665-non-decreasing-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0665-non-decreasing-array/) | Medium |
 | [0682-baseball-game](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0682-baseball-game/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/1052-grumpy-bookstore-owner) |
