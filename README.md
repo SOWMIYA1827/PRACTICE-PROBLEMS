@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0069-sqrtx) |
+| [0162-find-peak-element](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0162-find-peak-element/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0001-two-sum/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0162-find-peak-element](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0162-find-peak-element/) | Medium |
 | [0204-count-primes](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0204-count-primes/) | Medium |
 | [0283-move-zeroes](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0349-intersection-of-two-arrays/) | Easy |
