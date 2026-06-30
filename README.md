@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0412-fizz-buzz/) | Easy |
 | [0682-baseball-game](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0682-baseball-game/) | Easy |
 | [0844-backspace-string-compare](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0844-backspace-string-compare/) | Easy |
+| [0867-transpose-matrix](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0867-transpose-matrix/) | Easy |
 | [1929-concatenation-of-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0665-non-decreasing-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0665-non-decreasing-array/) | Medium |
 | [0682-baseball-game](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0682-baseball-game/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0867-transpose-matrix](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0867-transpose-matrix/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/1052-grumpy-bookstore-owner) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0048-rotate-image/) | Medium |
+| [0867-transpose-matrix](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0867-transpose-matrix/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
