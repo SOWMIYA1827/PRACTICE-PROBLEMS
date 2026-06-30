@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0162-find-peak-element/) | Medium |
 | [0268-missing-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0268-missing-number/) | Easy |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0001-two-sum/) | Easy |
+| [0035-search-insert-position](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0035-search-insert-position/) | Easy |
 | [0048-rotate-image](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0066-plus-one/) | Easy |
 | [0118-pascals-triangle](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0118-pascals-triangle/) | Easy |
