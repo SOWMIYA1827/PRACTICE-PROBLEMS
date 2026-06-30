@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0268-missing-number/) | Easy |
 | [0868-binary-gap](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0868-binary-gap/) | Easy |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0066-plus-one/) | Easy |
 | [0118-pascals-triangle](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0136-single-number/) | Easy |
 | [0162-find-peak-element](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0169-majority-element/) | Easy |
 | [0204-count-primes](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0204-count-primes/) | Medium |
