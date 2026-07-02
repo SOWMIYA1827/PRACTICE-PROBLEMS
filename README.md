@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0070-climbing-stairs/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0204-count-primes](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0204-count-primes/) | Medium |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0509-fibonacci-number) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Bit Manipulation
