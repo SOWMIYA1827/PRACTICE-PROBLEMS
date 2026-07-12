@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0035-search-insert-position/) | Easy |
+| [0041-first-missing-positive](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0041-first-missing-positive/) | Hard |
 | [0048-rotate-image](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0066-plus-one/) | Easy |
 | [0118-pascals-triangle](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0118-pascals-triangle/) | Easy |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0041-first-missing-positive/) | Hard |
 | [0169-majority-element](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0217-contains-duplicate/) | Easy |
