@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0495-teemo-attacking/) | Easy |
+| [0496-next-greater-element-i](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0496-next-greater-element-i/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0561-array-partition](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0605-can-place-flowers/) | Easy |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0496-next-greater-element-i](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0496-next-greater-element-i/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0496-next-greater-element-i](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0496-next-greater-element-i/) | Easy |
 | [0682-baseball-game](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0682-baseball-game/) | Easy |
 | [0844-backspace-string-compare](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -298,4 +301,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0561-array-partition](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0561-array-partition/) | Easy |
 | [1051-height-checker](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1051-height-checker/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
