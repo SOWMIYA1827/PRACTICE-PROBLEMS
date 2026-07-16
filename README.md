@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0645-set-mismatch/) | Easy |
+| [0661-image-smoother](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0661-image-smoother/) | Easy |
 | [0665-non-decreasing-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0665-non-decreasing-array/) | Medium |
 | [0682-baseball-game](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0682-baseball-game/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0048-rotate-image/) | Medium |
+| [0661-image-smoother](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0661-image-smoother/) | Easy |
 | [0867-transpose-matrix](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0867-transpose-matrix/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Number Theory
