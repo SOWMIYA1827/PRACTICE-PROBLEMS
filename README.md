@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0412-fizz-buzz/) | Easy |
 | [0507-perfect-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0509-fibonacci-number) |
+| [0598-range-addition-ii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0598-range-addition-ii/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0728-self-dividing-numbers/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1137-n-th-tribonacci-number/) | Easy |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0561-array-partition/) | Easy |
 | [0575-distribute-candies](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0575-distribute-candies/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0598-range-addition-ii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0598-range-addition-ii/) | Easy |
 | [0605-can-place-flowers](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0643-maximum-average-subarray-i) |
