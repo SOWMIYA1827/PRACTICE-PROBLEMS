@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/1004-max-consecutive-ones-iii) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0383-ransom-note](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0496-next-greater-element-i/) | Easy |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0412-fizz-buzz/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0824-goat-latin](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0824-goat-latin/) | Easy |
 | [0844-backspace-string-compare](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0844-backspace-string-compare/) | Easy |
