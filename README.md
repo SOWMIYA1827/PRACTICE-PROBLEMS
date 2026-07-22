@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0824-goat-latin](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0824-goat-latin/) | Easy |
 | [0844-backspace-string-compare](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1544-make-the-string-great](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1544-make-the-string-great/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
