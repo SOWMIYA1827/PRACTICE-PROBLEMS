@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0367-valid-perfect-square](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0367-valid-perfect-square/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0704-binary-search](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/1004-max-consecutive-ones-iii) |
 ## Array
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0665-non-decreasing-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0665-non-decreasing-array/) | Medium |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0682-baseball-game](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0682-baseball-game/) | Easy |
+| [0704-binary-search](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0704-binary-search/) | Easy |
 | [0717-1-bit-and-2-bit-characters](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
 | [0739-daily-temperatures](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0739-daily-temperatures/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
