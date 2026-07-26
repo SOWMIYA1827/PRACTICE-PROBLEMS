@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0162-find-peak-element](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0162-find-peak-element/) | Medium |
 | [0268-missing-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0066-plus-one/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0118-pascals-triangle](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0048-rotate-image/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0661-image-smoother](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0661-image-smoother/) | Easy |
 | [0867-transpose-matrix](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0867-transpose-matrix/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1672-richest-customer-wealth/) | Easy |
