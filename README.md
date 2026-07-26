@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
 | [0739-daily-temperatures](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0739-daily-temperatures/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0853-car-fleet](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0853-car-fleet/) | Medium |
 | [0860-lemonade-change](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0860-lemonade-change/) | Easy |
 | [0867-transpose-matrix](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0867-transpose-matrix/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/1004-max-consecutive-ones-iii) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0645-set-mismatch/) | Easy |
+| [0853-car-fleet](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0853-car-fleet/) | Medium |
 | [1051-height-checker](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1051-height-checker/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0844-backspace-string-compare/) | Easy |
+| [0853-car-fleet](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0853-car-fleet/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1544-make-the-string-great](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1544-make-the-string-great/) | Easy |
 ## Design
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0739-daily-temperatures/) | Medium |
+| [0853-car-fleet](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0853-car-fleet/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
