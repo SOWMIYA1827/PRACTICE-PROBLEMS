@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0701-insert-into-a-binary-search-tree](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0701-insert-into-a-binary-search-tree](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -440,4 +442,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
