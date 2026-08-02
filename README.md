@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0367-valid-perfect-square](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0367-valid-perfect-square/) | Easy |
+| [0374-guess-number-higher-or-lower](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -466,4 +467,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 <!---LeetCode Topics End-->
