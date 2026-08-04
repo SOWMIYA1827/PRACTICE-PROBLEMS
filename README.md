@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0143-reorder-list](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0231-power-of-two/) | Easy |
 | [0394-decode-string](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0394-decode-string/) | Medium |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0027-remove-element/) | Easy |
 | [0042-trapping-rain-water](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0042-trapping-rain-water/) | Hard |
+| [0143-reorder-list](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0143-reorder-list/) | Medium |
 | [0283-move-zeroes](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0071-simplify-path/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0143-reorder-list](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0143-reorder-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -397,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0143-reorder-list](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0206-reverse-linked-list/) | Easy |
 ## Data Stream
 | Problem Name | Difficulty |
