@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0461-hamming-distance](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0461-hamming-distance/) | Easy |
 | [0645-set-mismatch](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0645-set-mismatch/) | Easy |
 | [0868-binary-gap](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0868-binary-gap/) | Easy |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0162-find-peak-element/) | Medium |
 | [0268-missing-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0367-valid-perfect-square](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0367-valid-perfect-square/) | Easy |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0414-third-maximum-number/) | Easy |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0042-trapping-rain-water/) | Hard |
 | [0143-reorder-list](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0143-reorder-list/) | Medium |
 | [0283-move-zeroes](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0455-assign-cookies](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0455-assign-cookies/) | Easy |
@@ -479,4 +483,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
