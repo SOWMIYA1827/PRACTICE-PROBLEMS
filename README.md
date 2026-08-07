@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0076-minimum-window-substring/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0567-permutation-in-string](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0567-permutation-in-string/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/1004-max-consecutive-ones-iii) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0496-next-greater-element-i/) | Easy |
+| [0567-permutation-in-string](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0567-permutation-in-string/) | Medium |
 | [0575-distribute-candies](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0575-distribute-candies/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0394-decode-string/) | Medium |
 | [0412-fizz-buzz](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0412-fizz-buzz/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0567-permutation-in-string](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0567-permutation-in-string/) | Medium |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0824-goat-latin](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0824-goat-latin/) | Easy |
 | [0844-backspace-string-compare](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0844-backspace-string-compare/) | Easy |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0455-assign-cookies](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0455-assign-cookies/) | Easy |
+| [0567-permutation-in-string](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0567-permutation-in-string/) | Medium |
 | [0844-backspace-string-compare](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0844-backspace-string-compare/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
