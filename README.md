@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0643-maximum-average-subarray-i) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0041-first-missing-positive/) | Hard |
+| [0076-minimum-window-substring](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0076-minimum-window-substring/) | Hard |
 | [0169-majority-element](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0217-contains-duplicate/) | Easy |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0071-simplify-path/) | Medium |
+| [0076-minimum-window-substring](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0076-minimum-window-substring/) | Hard |
 | [0168-excel-sheet-column-title](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0205-isomorphic-strings/) | Easy |
