@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0455-assign-cookies/) | Easy |
 | [0567-permutation-in-string](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0567-permutation-in-string/) | Medium |
 | [0844-backspace-string-compare](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0844-backspace-string-compare/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0143-reorder-list](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0206-reverse-linked-list/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
