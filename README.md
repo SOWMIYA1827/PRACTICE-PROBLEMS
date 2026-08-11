@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0162-find-peak-element/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0162-find-peak-element/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0169-majority-element/) | Easy |
 | [0204-count-primes](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0204-count-primes/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0027-remove-element/) | Easy |
 | [0042-trapping-rain-water](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0042-trapping-rain-water/) | Hard |
 | [0143-reorder-list](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0143-reorder-list/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0349-intersection-of-two-arrays/) | Easy |
