@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0035-search-insert-position/) | Easy |
 | [0041-first-missing-positive](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0042-trapping-rain-water/) | Hard |
+| [0046-permutations](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -568,4 +569,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0046-permutations](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0046-permutations/) | Medium |
 <!---LeetCode Topics End-->
