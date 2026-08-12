@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0217-contains-duplicate/) | Easy |
 | [0228-summary-ranges](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0228-summary-ranges/) | Easy |
 | [0229-majority-element-ii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0229-majority-element-ii/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0268-missing-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0283-move-zeroes) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/1004-max-consecutive-ones-iii) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
