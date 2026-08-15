@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0042-trapping-rain-water/) | Hard |
+| [0045-jump-game-ii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0118-pascals-triangle/) | Easy |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0035-search-insert-position/) | Easy |
 | [0041-first-missing-positive](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0042-trapping-rain-water/) | Hard |
+| [0045-jump-game-ii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0048-rotate-image/) | Medium |
 | [0055-jump-game](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0055-jump-game/) | Medium |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0011-container-with-most-water/) | Medium |
+| [0045-jump-game-ii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0055-jump-game/) | Medium |
 | [0455-assign-cookies](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0561-array-partition/) | Easy |
