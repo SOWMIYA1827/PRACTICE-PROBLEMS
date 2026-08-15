@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0645-set-mismatch/) | Easy |
 | [0868-binary-gap](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0868-binary-gap/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2798-number-of-employees-who-met-the-target](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
