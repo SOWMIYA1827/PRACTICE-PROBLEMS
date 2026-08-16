@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [2029-stone-game-ix](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2029-stone-game-ix/) | Medium |
 | [2180-count-integers-with-even-digit-sum](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/2652-sum-multiples) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2012-sum-of-beauty-in-the-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2012-sum-of-beauty-in-the-array/) | Medium |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
+| [2029-stone-game-ix](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2029-stone-game-ix/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2029-stone-game-ix](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2029-stone-game-ix/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -471,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0605-can-place-flowers/) | Easy |
 | [0860-lemonade-change](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0860-lemonade-change/) | Easy |
+| [2029-stone-game-ix](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2029-stone-game-ix/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -634,4 +638,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2029-stone-game-ix/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2029-stone-game-ix/) | Medium |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2029-stone-game-ix/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2029-stone-game-ix/) | Medium |
 <!---LeetCode Topics End-->
