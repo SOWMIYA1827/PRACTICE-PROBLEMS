@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0198-house-robber/) | Medium |
+| [0213-house-robber-ii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0213-house-robber-ii/) | Medium |
 | [0279-perfect-squares](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0279-perfect-squares/) | Medium |
 | [0509-fibonacci-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1137-n-th-tribonacci-number/) | Easy |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0198-house-robber/) | Medium |
 | [0204-count-primes](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0204-count-primes/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0213-house-robber-ii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0213-house-robber-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0217-contains-duplicate/) | Easy |
 | [0228-summary-ranges](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0228-summary-ranges/) | Easy |
