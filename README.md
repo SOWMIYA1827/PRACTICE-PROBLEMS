@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0213-house-robber-ii/) | Medium |
 | [0279-perfect-squares](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0279-perfect-squares/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0322-coin-change/) | Medium |
 | [0509-fibonacci-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0367-valid-perfect-square](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0367-valid-perfect-square/) | Easy |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0322-coin-change](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0322-coin-change/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -679,4 +682,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0279-perfect-squares](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0322-coin-change/) | Medium |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0300-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->
