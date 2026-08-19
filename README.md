@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0213-house-robber-ii/) | Medium |
 | [0279-perfect-squares](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0279-perfect-squares/) | Medium |
+| [0322-coin-change](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0322-coin-change/) | Medium |
 | [0509-fibonacci-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1137-n-th-tribonacci-number/) | Easy |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0322-coin-change](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0322-coin-change/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0414-third-maximum-number/) | Easy |
@@ -582,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0226-invert-binary-tree/) | Easy |
 | [0279-perfect-squares](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0279-perfect-squares/) | Medium |
+| [0322-coin-change](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0322-coin-change/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -670,8 +673,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0279-perfect-squares](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0279-perfect-squares/) | Medium |
+| [0322-coin-change](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0322-coin-change/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0279-perfect-squares](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0279-perfect-squares/) | Medium |
+| [0322-coin-change](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
