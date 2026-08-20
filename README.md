@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0322-coin-change/) | Medium |
 | [0509-fibonacci-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0412-fizz-buzz/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0516-longest-palindromic-subsequence](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0567-permutation-in-string](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0567-permutation-in-string/) | Medium |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0824-goat-latin](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0824-goat-latin/) | Easy |
