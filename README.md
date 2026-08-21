@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0213-house-robber-ii/) | Medium |
 | [0279-perfect-squares](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0279-perfect-squares/) | Medium |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0136-single-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0162-find-peak-element/) | Medium |
 | [0164-maximum-gap](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0164-maximum-gap/) | Medium |
