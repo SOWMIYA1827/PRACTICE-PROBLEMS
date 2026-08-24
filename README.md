@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0048-rotate-image/) | Medium |
+| [0062-unique-paths](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0070-climbing-stairs/) | Easy |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0055-jump-game/) | Medium |
+| [0062-unique-paths](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0118-pascals-triangle/) | Easy |
@@ -725,4 +727,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0200-number-of-islands/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
