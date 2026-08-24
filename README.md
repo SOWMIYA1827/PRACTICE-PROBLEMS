@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0062-unique-paths/) | Medium |
+| [0063-unique-paths-ii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0118-pascals-triangle/) | Easy |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0048-rotate-image/) | Medium |
 | [0055-jump-game](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0056-merge-intervals/) | Medium |
+| [0063-unique-paths-ii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0048-rotate-image/) | Medium |
+| [0063-unique-paths-ii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0200-number-of-islands/) | Medium |
