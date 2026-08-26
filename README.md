@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [0997-find-the-town-judge](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0997-find-the-town-judge/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1046-last-stone-weight](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1046-last-stone-weight/) | Easy |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [0997-find-the-town-judge](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0997-find-the-town-judge/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
@@ -767,4 +769,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0997-find-the-town-judge](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0997-find-the-town-judge/) | Easy |
 <!---LeetCode Topics End-->
