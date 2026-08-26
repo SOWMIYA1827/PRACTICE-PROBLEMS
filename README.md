@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [0994-rotting-oranges](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0994-rotting-oranges/) | Medium |
 | [0997-find-the-town-judge](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0997-find-the-town-judge/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0661-image-smoother/) | Easy |
 | [0695-max-area-of-island](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0695-max-area-of-island/) | Medium |
 | [0867-transpose-matrix](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0867-transpose-matrix/) | Easy |
+| [0994-rotting-oranges](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0994-rotting-oranges/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -642,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0322-coin-change/) | Medium |
 | [0463-island-perimeter](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0463-island-perimeter/) | Easy |
 | [0695-max-area-of-island](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0695-max-area-of-island/) | Medium |
+| [0994-rotting-oranges](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0994-rotting-oranges/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
