@@ -464,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0901-online-stock-span](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0901-online-stock-span/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
@@ -544,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0506-relative-ranks](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0506-relative-ranks/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1046-last-stone-weight](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1046-last-stone-weight/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0901-online-stock-span](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0901-online-stock-span/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -578,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -613,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -638,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
