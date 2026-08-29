@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0048-rotate-image/) | Medium |
 | [0055-jump-game](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0056-merge-intervals/) | Medium |
+| [0057-insert-interval](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0057-insert-interval/) | Medium |
 | [0063-unique-paths-ii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0066-plus-one/) | Easy |
