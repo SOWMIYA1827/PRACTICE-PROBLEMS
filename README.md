@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0645-set-mismatch](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0645-set-mismatch/) | Easy |
+| [0895-maximum-frequency-stack](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [0904-fruit-into-baskets](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0844-backspace-string-compare/) | Easy |
 | [0853-car-fleet](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0853-car-fleet/) | Medium |
+| [0895-maximum-frequency-stack](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [0901-online-stock-span](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0901-online-stock-span/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1544-make-the-string-great](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1544-make-the-string-great/) | Easy |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0895-maximum-frequency-stack](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [0901-online-stock-span](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0901-online-stock-span/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Queue
@@ -813,4 +816,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0207-course-schedule/) | Medium |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0895-maximum-frequency-stack](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0895-maximum-frequency-stack/) | Hard |
 <!---LeetCode Topics End-->
