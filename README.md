@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0598-range-addition-ii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0598-range-addition-ii/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0605-can-place-flowers](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0605-can-place-flowers/) | Easy |
+| [0621-task-scheduler](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0621-task-scheduler/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0645-set-mismatch/) | Easy |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0506-relative-ranks/) | Easy |
 | [0561-array-partition](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0561-array-partition/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0621-task-scheduler](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0621-task-scheduler/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0645-set-mismatch/) | Easy |
 | [0853-car-fleet](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0853-car-fleet/) | Medium |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0575-distribute-candies/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
+| [0621-task-scheduler](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0621-task-scheduler/) | Medium |
 | [0645-set-mismatch](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0645-set-mismatch/) | Easy |
 | [0895-maximum-frequency-stack](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [0904-fruit-into-baskets](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0621-task-scheduler](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0621-task-scheduler/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2029-stone-game-ix](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2029-stone-game-ix/) | Medium |
@@ -552,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0605-can-place-flowers/) | Easy |
+| [0621-task-scheduler](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0621-task-scheduler/) | Medium |
 | [0860-lemonade-change](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0860-lemonade-change/) | Easy |
 | [2029-stone-game-ix](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2029-stone-game-ix/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -576,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0506-relative-ranks](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0506-relative-ranks/) | Easy |
+| [0621-task-scheduler](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0621-task-scheduler/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1046-last-stone-weight/) | Easy |
