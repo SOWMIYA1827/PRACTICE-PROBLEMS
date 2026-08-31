@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0279-perfect-squares/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0322-coin-change/) | Medium |
+| [0338-counting-bits](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0338-counting-bits/) | Easy |
 | [0343-integer-break](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0343-integer-break/) | Medium |
 | [0377-combination-sum-iv](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0377-combination-sum-iv/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0338-counting-bits](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0338-counting-bits/) | Easy |
 | [0461-hamming-distance](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0461-hamming-distance/) | Easy |
 | [0645-set-mismatch](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0645-set-mismatch/) | Easy |
 | [0868-binary-gap](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0868-binary-gap/) | Easy |
