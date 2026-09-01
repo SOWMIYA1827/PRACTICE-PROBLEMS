@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0066-plus-one/) | Easy |
+| [0073-set-matrix-zeroes](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0041-first-missing-positive/) | Hard |
+| [0073-set-matrix-zeroes](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0076-minimum-window-substring/) | Hard |
 | [0139-word-break](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0139-word-break/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0048-rotate-image/) | Medium |
 | [0063-unique-paths-ii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0064-minimum-path-sum/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0200-number-of-islands/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
