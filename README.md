@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0139-word-break](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0198-house-robber/) | Medium |
@@ -617,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0226-invert-binary-tree/) | Easy |
@@ -636,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0200-number-of-islands](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0200-number-of-islands/) | Medium |
@@ -658,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0226-invert-binary-tree/) | Easy |
@@ -834,4 +838,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0895-maximum-frequency-stack](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0895-maximum-frequency-stack/) | Hard |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 <!---LeetCode Topics End-->
