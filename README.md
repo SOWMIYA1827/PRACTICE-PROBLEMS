@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0045-jump-game-ii/) | Medium |
+| [0053-maximum-subarray](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0063-unique-paths-ii/) | Medium |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0048-rotate-image/) | Medium |
+| [0053-maximum-subarray](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0057-insert-interval/) | Medium |
@@ -550,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0169-majority-element/) | Easy |
 | [0191-number-of-1-bits](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
