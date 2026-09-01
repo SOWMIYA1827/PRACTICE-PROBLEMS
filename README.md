@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0070-climbing-stairs/) | Easy |
+| [0089-gray-code](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0089-gray-code/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0171-excel-sheet-column-number/) | Easy |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0078-subsets/) | Medium |
+| [0089-gray-code](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0137-single-number-ii/) | Medium |
@@ -751,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0046-permutations](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0078-subsets/) | Medium |
+| [0089-gray-code](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0090-subsets-ii/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
