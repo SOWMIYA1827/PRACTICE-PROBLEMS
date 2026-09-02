@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0377-combination-sum-iv/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0494-target-sum](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0647-palindromic-substrings](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0647-palindromic-substrings/) | Medium |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0455-assign-cookies/) | Easy |
 | [0463-island-perimeter](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0463-island-perimeter/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0494-target-sum/) | Medium |
 | [0495-teemo-attacking](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0495-teemo-attacking/) | Easy |
 | [0496-next-greater-element-i](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -773,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0078-subsets/) | Medium |
 | [0089-gray-code](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0090-subsets-ii/) | Medium |
+| [0494-target-sum](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0494-target-sum/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -812,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0494-target-sum](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0494-target-sum/) | Medium |
 | [1049-last-stone-weight-ii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1049-last-stone-weight-ii/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
@@ -834,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0494-target-sum](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0494-target-sum/) | Medium |
 | [1049-last-stone-weight-ii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1049-last-stone-weight-ii/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
