@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0997-find-the-town-judge/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1020-number-of-enclaves](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1020-number-of-enclaves/) | Medium |
 | [1046-last-stone-weight](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1046-last-stone-weight/) | Easy |
 | [1049-last-stone-weight-ii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1049-last-stone-weight-ii/) | Medium |
 | [1051-height-checker](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1051-height-checker/) | Easy |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0695-max-area-of-island/) | Medium |
 | [0867-transpose-matrix](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0867-transpose-matrix/) | Easy |
 | [0994-rotting-oranges](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1020-number-of-enclaves/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Number Theory
@@ -671,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0695-max-area-of-island](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0695-max-area-of-island/) | Medium |
+| [1020-number-of-enclaves](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1020-number-of-enclaves/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -707,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0463-island-perimeter/) | Easy |
 | [0695-max-area-of-island](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0695-max-area-of-island/) | Medium |
 | [0994-rotting-oranges](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1020-number-of-enclaves/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
@@ -829,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0695-max-area-of-island/) | Medium |
+| [1020-number-of-enclaves](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1020-number-of-enclaves/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
