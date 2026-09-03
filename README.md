@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0048-rotate-image/) | Medium |
+| [0050-powx-n](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0069-sqrtx) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0050-powx-n](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0050-powx-n/) | Medium |
 | [0143-reorder-list](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0231-power-of-two/) | Easy |
