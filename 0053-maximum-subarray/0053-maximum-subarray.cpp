@@ -6,8 +6,8 @@ public:
         int g = nums[0];
 
         for(int i=1 ; i<n ; i++){
-            c = max (c+nums[i] , nums[i]);
-            g = max (g,c);
+            c = max(nums[i], nums[i] + c);
+            g = max( c , g);
         }
 
         return g ;
