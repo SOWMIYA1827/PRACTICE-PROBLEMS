@@ -667,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -688,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0210-course-schedule-ii/) | Medium |
@@ -716,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -732,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0210-course-schedule-ii/) | Medium |
