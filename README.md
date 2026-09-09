@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0053-maximum-subarray/) | Medium |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0014-longest-common-prefix](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0071-simplify-path](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0071-simplify-path/) | Medium |
 | [0072-edit-distance](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0076-minimum-window-substring/) | Hard |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0042-trapping-rain-water/) | Hard |
 | [0071-simplify-path](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0071-simplify-path/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
@@ -947,6 +950,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0032-longest-valid-parentheses/) | Hard |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
