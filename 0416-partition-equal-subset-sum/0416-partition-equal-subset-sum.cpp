@@ -1,12 +1,11 @@
 class Solution {
 public:
-
-    bool calculate(vector<int>& nums , int i , vector<vector<int>>& dp , int target){
-
-        if( target == 0 ){
+    bool calculate(vector<int>& nums , int i , int target , vector<vector<int>>& dp){
+        if(target == 0){
             return true ;
         }
-        if( i >= nums.size() || target < 0){
+
+        if( i>=nums.size() || target < 0){
             return false ;
         }
 
@@ -14,24 +13,22 @@ public:
             return dp[i][target];
         }
 
-        bool pick = calculate( nums , i+1 , dp , target-nums[i]);
-        bool notpick = calculate(nums , i+1 , dp , target);
+        bool pick = calculate( nums , i+1 , target-nums[i] , dp);
+        bool nopick = calculate( nums , i+1 , target , dp);
 
-        return dp[i][target] = (pick || notpick) ;
+        return dp[i][target] = (pick || nopick) ;
     }
-
     bool canPartition(vector<int>& nums) {
-        int n = nums.size() ;
+        int n = nums.size();
 
-        int sum = accumulate(nums.begin() , nums.end() , 0);
+        int sum = accumulate( nums.begin() , nums.end() , 0);
+        int target = sum/2 ;
 
-        if( sum %2 != 0){
+        if( sum%2 != 0){
             return false ;
         }
 
-       int target = sum/2 ;
-        vector<vector<int>> dp(n , vector<int>(target+1 , -1));
-
-        return calculate( nums , 0  , dp , target );
+        vector<vector<int>> dp( n , vector<int>(target+1 , -1));
+        return calculate(nums , 0 , target , dp);
     }
 };
