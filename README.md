@@ -376,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0076-minimum-window-substring/) | Hard |
 | [0139-word-break](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0139-word-break/) | Medium |
+| [0141-linked-list-cycle](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0169-majority-element/) | Easy |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0027-remove-element/) | Easy |
 | [0042-trapping-rain-water](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0075-sort-colors/) | Medium |
+| [0141-linked-list-cycle](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0143-reorder-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -652,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0141-linked-list-cycle](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0143-reorder-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -790,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Monotonic Queue
