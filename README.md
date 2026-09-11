@@ -455,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3110-score-of-a-string](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/3110-score-of-a-string/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
