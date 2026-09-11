@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/1052-grumpy-bookstore-owner) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1313-decompress-run-length-encoded-list](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1313-decompress-run-length-encoded-list/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
