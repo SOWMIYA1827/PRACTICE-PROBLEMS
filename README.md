@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2596-check-knight-tour-configuration](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2596-check-knight-tour-configuration/) | Medium |
+| [2974-minimum-number-game](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2974-minimum-number-game/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2798-number-of-employees-who-met-the-target](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
+| [2974-minimum-number-game](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2974-minimum-number-game/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Sorting
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1051-height-checker](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1051-height-checker/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+| [2974-minimum-number-game](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2974-minimum-number-game/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -656,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1046-last-stone-weight/) | Easy |
+| [2974-minimum-number-game](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2974-minimum-number-game/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
