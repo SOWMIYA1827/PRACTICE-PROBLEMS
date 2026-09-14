@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0598-range-addition-ii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0598-range-addition-ii/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0728-self-dividing-numbers/) | Easy |
+| [0836-rectangle-overlap](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0836-rectangle-overlap/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -907,6 +908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0836-rectangle-overlap/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## K-D Tree
 | Problem Name | Difficulty |
