@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0090-subsets-ii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0090-subsets-ii/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0118-pascals-triangle](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0134-gas-station/) | Medium |
@@ -605,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0053-maximum-subarray/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0169-majority-element](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0169-majority-element/) | Easy |
 | [0191-number-of-1-bits](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -689,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -742,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -789,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
