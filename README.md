@@ -952,6 +952,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0543-diameter-of-binary-tree](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Bézout's Lemma
 | Problem Name | Difficulty |
 | ------- | ------- |
