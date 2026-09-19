@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2652-sum-multiples](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
+| [3024-type-of-triangle](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/3024-type-of-triangle/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3870-count-commas-in-range](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/3870-count-commas-in-range/) | Easy |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2974-minimum-number-game](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2974-minimum-number-game/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
+| [3024-type-of-triangle](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/3024-type-of-triangle/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Sorting
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1051-height-checker/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [2974-minimum-number-game](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2974-minimum-number-game/) | Easy |
+| [3024-type-of-triangle](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/3024-type-of-triangle/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1004,4 +1007,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Polygons
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3024-type-of-triangle](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/3024-type-of-triangle/) | Easy |
 <!---LeetCode Topics End-->
