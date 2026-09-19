@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2798-number-of-employees-who-met-the-target](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
+| [2942-find-words-containing-character](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2942-find-words-containing-character/) | Easy |
 | [2974-minimum-number-game](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2974-minimum-number-game/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3024-type-of-triangle](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/3024-type-of-triangle/) | Easy |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2942-find-words-containing-character](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2942-find-words-containing-character/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3110-score-of-a-string](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/3110-score-of-a-string/) | Easy |
 ## Counting
