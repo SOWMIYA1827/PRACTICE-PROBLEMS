@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1313-decompress-run-length-encoded-list](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1313-decompress-run-length-encoded-list/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0981-time-based-key-value-store/) | Medium |
 | [0997-find-the-town-judge](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0997-find-the-town-judge/) | Easy |
+| [1394-find-lucky-integer-in-an-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0621-task-scheduler](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0621-task-scheduler/) | Medium |
+| [1394-find-lucky-integer-in-an-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2029-stone-game-ix](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2029-stone-game-ix/) | Medium |
