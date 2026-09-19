@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2016-maximum-difference-between-increasing-elements](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2029-stone-game-ix](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2029-stone-game-ix/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1051-height-checker](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1051-height-checker/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2974-minimum-number-game](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2974-minimum-number-game/) | Easy |
 | [3024-type-of-triangle](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/3024-type-of-triangle/) | Easy |
 ## Sliding Window
