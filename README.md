@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0268-missing-number/) | Easy |
+| [0278-first-bad-version](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -837,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0278-first-bad-version](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
