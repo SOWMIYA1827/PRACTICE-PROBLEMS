@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1550-three-consecutive-odds](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1929-concatenation-of-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1929-concatenation-of-array/) | Easy |
