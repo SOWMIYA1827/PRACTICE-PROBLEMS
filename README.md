@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+| [1898-maximum-number-of-removable-characters](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1898-maximum-number-of-removable-characters/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
+| [1898-maximum-number-of-removable-characters](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1898-maximum-number-of-removable-characters/) | Medium |
 | [1929-concatenation-of-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2012-sum-of-beauty-in-the-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2012-sum-of-beauty-in-the-array/) | Medium |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1544-make-the-string-great/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1898-maximum-number-of-removable-characters](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1898-maximum-number-of-removable-characters/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -539,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0647-palindromic-substrings/) | Medium |
 | [0844-backspace-string-compare](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0844-backspace-string-compare/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1898-maximum-number-of-removable-characters](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1898-maximum-number-of-removable-characters/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
