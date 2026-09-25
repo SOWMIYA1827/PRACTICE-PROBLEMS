@@ -495,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2942-find-words-containing-character](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2942-find-words-containing-character/) | Easy |
+| [3019-number-of-changing-keys](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/3019-number-of-changing-keys/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3110-score-of-a-string](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/3110-score-of-a-string/) | Easy |
 ## Counting
