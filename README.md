@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1049-last-stone-weight-ii/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1143-longest-common-subsequence/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2596-check-knight-tour-configuration/) | Medium |
@@ -635,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1020-number-of-enclaves/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1672-richest-customer-wealth/) | Easy |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2596-check-knight-tour-configuration](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -1026,6 +1029,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
