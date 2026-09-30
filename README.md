@@ -496,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1544-make-the-string-great](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1544-make-the-string-great/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -599,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1544-make-the-string-great](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1544-make-the-string-great/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Design
