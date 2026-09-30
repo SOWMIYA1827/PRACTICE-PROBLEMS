@@ -2,17 +2,16 @@ class Solution {
 public:
     int maxDepth(string s) {
         int answer = 0 ;
-        stack<char> storage;
+        int depth = 0 ;
 
         for(char c : s){
             if(c == '('){
-                storage.push(c);
+                depth++;
             }
             else if(c==')'){
-                storage.pop();
+                depth--;
             }
-            int n = storage.size();
-            answer = max(answer , n);
+            answer = max(answer , depth);
         }
 
         return answer ;
