@@ -508,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2116-check-if-a-parentheses-string-can-be-valid/) | Medium |
 | [2942-find-words-containing-character](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2942-find-words-containing-character/) | Easy |
 | [3019-number-of-changing-keys](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/3019-number-of-changing-keys/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -605,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1544-make-the-string-great](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1544-make-the-string-great/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2116-check-if-a-parentheses-string-can-be-valid/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -697,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [2029-stone-game-ix](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2029-stone-game-ix/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2116-check-if-a-parentheses-string-can-be-valid/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1046,6 +1049,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2116-check-if-a-parentheses-string-can-be-valid/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Manacher
 | Problem Name | Difficulty |
