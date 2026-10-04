@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1049-last-stone-weight-ii/) | Medium |
 | [1051-height-checker](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1051-height-checker/) | Easy |
 | [1052-grumpy-bookstore-owner](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/1052-grumpy-bookstore-owner) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
@@ -659,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0867-transpose-matrix/) | Easy |
 | [0994-rotting-oranges](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1020-number-of-enclaves/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2596-check-knight-tour-configuration](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2596-check-knight-tour-configuration/) | Medium |
@@ -857,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1020-number-of-enclaves/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
