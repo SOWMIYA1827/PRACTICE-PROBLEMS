@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0516-longest-palindromic-subsequence/) | Medium |
+| [0542-01-matrix](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0542-01-matrix/) | Medium |
 | [0647-palindromic-substrings](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0647-palindromic-substrings/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0506-relative-ranks](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0506-relative-ranks/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0542-01-matrix](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0542-01-matrix/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0561-array-partition](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0561-array-partition/) | Easy |
 | [0575-distribute-candies](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0575-distribute-candies/) | Easy |
@@ -649,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0200-number-of-islands/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0463-island-perimeter](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0463-island-perimeter/) | Easy |
+| [0542-01-matrix](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0542-01-matrix/) | Medium |
 | [0661-image-smoother](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0661-image-smoother/) | Easy |
 | [0695-max-area-of-island](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0695-max-area-of-island/) | Medium |
 | [0867-transpose-matrix](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0867-transpose-matrix/) | Easy |
@@ -846,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0322-coin-change/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0463-island-perimeter](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0463-island-perimeter/) | Easy |
+| [0542-01-matrix](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0542-01-matrix/) | Medium |
 | [0695-max-area-of-island](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0695-max-area-of-island/) | Medium |
 | [0994-rotting-oranges](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1020-number-of-enclaves/) | Medium |
