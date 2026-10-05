@@ -500,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0709-to-lower-case/) | Easy |
 | [0824-goat-latin](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0824-goat-latin/) | Easy |
 | [0844-backspace-string-compare](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0844-backspace-string-compare/) | Easy |
+| [0856-score-of-parentheses](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -606,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0844-backspace-string-compare/) | Easy |
 | [0853-car-fleet](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0853-car-fleet/) | Medium |
+| [0856-score-of-parentheses](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0856-score-of-parentheses/) | Medium |
 | [0895-maximum-frequency-stack](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [0901-online-stock-span](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0901-online-stock-span/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -1064,6 +1066,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
