@@ -3,19 +3,18 @@ public:
     int minAddToMakeValid(string s) {
         int n = s.length();
 
-        int open = 0 , need = 0 ;
+        int open = 0 , need = 0;
         for(int i=0 ; i<n ; i++){
-            if(open > 0 && s[i] == ')'){
+           if(open > 0 && s[i] == ')'){
                 open--;
-            }
-            else if(s[i] == '('){
+            }else if(s[i] == '('){
                 open++;
-            }else{
-                need++;
             }
+            else{
+                need++;
+            } 
         }
 
-        int answer = open + need ;
-        return answer;
+        return need+open ;
     }
 };
