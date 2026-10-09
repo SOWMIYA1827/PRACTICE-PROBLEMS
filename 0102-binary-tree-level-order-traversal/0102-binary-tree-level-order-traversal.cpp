@@ -13,22 +13,21 @@ class Solution {
 public:
     vector<vector<int>> result ;
 
-    void traversenode (TreeNode* root , int level){
-
+    void levelorder(TreeNode* root , int level){
         if( root == nullptr){
             return ;
         }
 
-        if( level == result.size()){
+        if(level == result.size()){
             result.push_back({});
         }
 
-        result[level].push_back( root->val );
-        traversenode( root->left , level+1 );
-        traversenode( root->right , level+1 );
+        result[level].push_back(root->val);
+        levelorder( root->left , level+1 );
+        levelorder( root->right , level+1);
     }
     vector<vector<int>> levelOrder(TreeNode* root) {
-        traversenode( root , 0 ) ;
+        levelorder( root , 0 );
         return result ;
     }
 };
