@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0137-single-number-ii/) | Medium |
 | [0191-number-of-1-bits](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0191-number-of-1-bits/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0231-power-of-two](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0231-power-of-two/) | Easy |
 | [0260-single-number-iii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0268-missing-number/) | Easy |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0278-first-bad-version/) | Easy |
@@ -780,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0226-invert-binary-tree](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -838,6 +841,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0226-invert-binary-tree](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
