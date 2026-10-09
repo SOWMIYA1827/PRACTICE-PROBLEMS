@@ -510,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1544-make-the-string-great](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1544-make-the-string-great/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
@@ -616,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1544-make-the-string-great](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1544-make-the-string-great/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2116-check-if-a-parentheses-string-can-be-valid/) | Medium |
@@ -716,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0860-lemonade-change](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0860-lemonade-change/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2029-stone-game-ix](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2029-stone-game-ix/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2116-check-if-a-parentheses-string-can-be-valid/) | Medium |
@@ -1083,6 +1086,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2116-check-if-a-parentheses-string-can-be-valid/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
