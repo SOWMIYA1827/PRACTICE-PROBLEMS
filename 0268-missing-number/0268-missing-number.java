@@ -1,18 +1,14 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        Set<Integer> storage = new HashSet<>();
+        int n = nums.length ;
 
-        int n = nums.length;
-        for(int i=0 ; i<n ; i++){
-            storage.add(nums[i]);
+        int expectedanswer = n * (n+1) / 2;
+        int actualanswer = 0 ;
+
+        for(int num : nums){
+            actualanswer += num ;
         }
 
-        for(int i=0 ; i<n ; i++){
-            if(!storage.contains(i)){
-                return i;
-            }
-        }
-
-        return n; 
+        return expectedanswer - actualanswer ; 
     }
 }
