@@ -1,12 +1,26 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        
-        int x = 0 ;
-        for(int i=0 ; i<nums.size() ; i++){
-            x = x ^ nums[i];
+        int n = nums.size();
+
+        sort(nums.begin() , nums.end());
+
+        if(n == 1){
+            return nums[0];
         }
 
-        return x ;
+        if(nums[0] != nums[1]){
+            return nums[0];
+        }
+        for(int i=1 ; i<n-1 ; i++){
+            if(nums[i-1] != nums[i] && nums[i] != nums[i+1] && nums[i-1] != nums[i+1]){
+                return nums[i];
+            }
+        }
+        if(nums[n-2] != nums[n-1]){
+            return nums[n-1];
+        }
+
+        return 0 ;
     }
 };
