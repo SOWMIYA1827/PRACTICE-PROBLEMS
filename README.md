@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1313-decompress-run-length-encoded-list](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1313-decompress-run-length-encoded-list/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1051-height-checker](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1051-height-checker/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2974-minimum-number-game](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2974-minimum-number-game/) | Easy |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0981-time-based-key-value-store/) | Medium |
 | [0997-find-the-town-judge](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0997-find-the-town-judge/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
@@ -740,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0561-array-partition](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0561-array-partition/) | Easy |
 | [1051-height-checker](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1051-height-checker/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
