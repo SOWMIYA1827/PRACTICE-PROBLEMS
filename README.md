@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3232-find-if-digit-game-can-be-won](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3870-count-commas-in-range](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Dynamic Programming
@@ -737,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2029-stone-game-ix/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2116-check-if-a-parentheses-string-can-be-valid/) | Medium |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
