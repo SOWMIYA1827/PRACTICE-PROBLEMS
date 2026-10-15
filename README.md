@@ -508,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0394-decode-string/) | Medium |
 | [0412-fizz-buzz](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0412-fizz-buzz/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0434-number-of-segments-in-a-string](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0567-permutation-in-string](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0567-permutation-in-string/) | Medium |
