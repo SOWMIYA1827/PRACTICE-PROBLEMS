@@ -1130,4 +1130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Ternary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 <!---LeetCode Topics End-->
