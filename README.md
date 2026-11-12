@@ -364,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/2974-minimum-number-game/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3024-type-of-triangle](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/3024-type-of-triangle/) | Easy |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SOWMIYA1827/PRACTICE-PROBLEMS/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
